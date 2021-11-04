@@ -34,3 +34,5 @@ Suggests:
     knitr,
     tidyverse,
     NHSRdatasets
+URL: https://github.com/MarkMc1089/nhsrtheme
+BugReports: https://github.com/MarkMc1089/nhsrtheme/issues
